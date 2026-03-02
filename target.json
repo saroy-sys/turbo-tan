@@ -1,0 +1,11 @@
+{
+    "include": [
+        {
+            "keyboard": "ortho5x13",
+            "keymap": "vial",
+            "target": "uf2",
+            "flags": "EXTRAFLAGS=\"-DAUTO_KDK_TRACKBALL_ENABLED\"",
+            "name": "ortho5x13_vial"
+        }
+    ]
+}
